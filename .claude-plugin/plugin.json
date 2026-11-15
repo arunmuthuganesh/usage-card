@@ -1,0 +1,7 @@
+{
+  "name": "usage-card",
+  "version": "0.1.0",
+  "description": "A card above the prompt with session (5h) and weekly (7d) usage and when each resets",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
