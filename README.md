@@ -1,5 +1,7 @@
 # usage-card
 
+![The usage card above the prompt, with session and weekly bars](docs/screenshot.png)
+
 A Claude Code mod that draws a card above the prompt with your Claude
 subscription usage: the 5-hour session window and the 7-day weekly window,
 each as a bar with the percentage used, when it resets and how long is left.
